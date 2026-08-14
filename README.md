@@ -36,4 +36,4 @@ Powerful **EViews Plus** research toolkit providing ANOVA, factor analysis, and 
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.     
+> This repository is provided for educational and utility purposes only. Use at your own discretion.      
